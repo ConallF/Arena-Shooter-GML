@@ -1,6 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"obj_enemyspawn","path":"objects/obj_enemyspawn/obj_enemyspawn.yy",},"order":5,},
     {"id":{"name":"til_background","path":"tilesets/til_background/til_background.yy",},"order":0,},
+    {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":6,},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},"order":1,},
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":4,},
     {"id":{"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"order":5,},
